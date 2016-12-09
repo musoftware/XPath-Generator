@@ -1,0 +1,5 @@
+C:\Users\mu12\Documents\Visual Studio 2013\Projects\XPath Generator\css2xpath\bin\Debug\css2xpath.dll
+C:\Users\mu12\Documents\Visual Studio 2013\Projects\XPath Generator\css2xpath\bin\Debug\css2xpath.pdb
+C:\Users\mu12\Documents\Visual Studio 2013\Projects\XPath Generator\css2xpath\obj\Debug\css2xpath.csprojResolveAssemblyReference.cache
+C:\Users\mu12\Documents\Visual Studio 2013\Projects\XPath Generator\css2xpath\obj\Debug\css2xpath.dll
+C:\Users\mu12\Documents\Visual Studio 2013\Projects\XPath Generator\css2xpath\obj\Debug\css2xpath.pdb
